@@ -1,1 +1,2 @@
-# hackathon-3-day-3
+Hachathon
+7 day 7 new task
